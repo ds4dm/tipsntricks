@@ -1,7 +1,6 @@
 
 # Git/Github tutorial
 ## Antoine Prouvost
------------------
 
 Version control systems (VCS) are tools to store and manage the evolution of a project through time, versions, and contributors.
 Git is the almost universal VCS used to manage codebases, from a single user project on a personal computer, to billion dollars software.
