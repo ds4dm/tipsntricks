@@ -1,6 +1,5 @@
 # PyTorch tutorial
 ## Antoine Prouvost
------------------
 
 Put your understanding of deep learning into practice with (one of) the most flexible deep learning framework.
 
