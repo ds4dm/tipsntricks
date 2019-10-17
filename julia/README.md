@@ -33,4 +33,14 @@ cd tipsntricks
 git checkout julia
 ```
 * download [the zipped repository](https://github.com/ds4dm/tipsntricks/archive/julia.zip) and uncompress it locally.
+
 The material is in the `julia/` folder.
+
+## Jupyter notebooks
+
+You can run Julia within Jupyter notebooks.
+To do so, you will need to install the [IJulia package](https://github.com/JuliaLang/IJulia.jl).
+See the link for installation instructions.
+
+If you already have Jupyter installed (e.g. with Anaconda), you should see a Julia kernel within Jupyter.
+If not, Julia will download and install its own conda distribution, and you will have to launch Jupyter from within Julia.
