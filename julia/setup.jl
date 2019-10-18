@@ -1,7 +1,7 @@
 @info "Installing packages. This may take up to a few minutes."
 
 using Pkg
-Pkg.activate(".")
+Pkg.activate(@__DIR__)
 Pkg.instantiate()
 
 @info "Loading packages"
