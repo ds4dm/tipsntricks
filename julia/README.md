@@ -44,3 +44,9 @@ See the link for installation instructions.
 
 If you already have Jupyter installed (e.g. with Anaconda), you should see a Julia kernel within Jupyter.
 If not, Julia will download and install its own conda distribution, and you will have to launch Jupyter from within Julia.
+
+## JuMP tutorials
+
+During the workshop, we will present you our JuMP
+tutorials (based on `Facily location` and `Asymmetric travelling salesman` problems) and some tutorials of `JuMPTutorials.jl` like a Sudoku.
+As of October 18th, look to [JuMPTutorials package](https://github.com/amontoison/JuMPTutorials.jl) for more examples that work with JuMP 0.20.0 and Julia 1.2/1.3. You can run their notebooks directly from the web browser without any installation!
