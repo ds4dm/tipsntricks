@@ -24,7 +24,7 @@ Further instructions are found [here](https://www.gerad.ca/aide/doku.php?id=en:p
 
 ## Workshop material
 
-The workshop material can be found [here](https://github.com/ds4dm/tipsntricks/tree/julia).
+The workshop material can be found [here](https://github.com/ds4dm/tipsntricks/tree/master/julia).
 To download the material, either
 * clone the repository locally and checkout the `julia` branch
 ```bash
@@ -32,7 +32,7 @@ git clone https://github.com/ds4dm/tipsntricks
 cd tipsntricks
 git checkout julia
 ```
-* download [the zipped repository](https://github.com/ds4dm/tipsntricks/archive/julia.zip) and uncompress it locally.
+* download [the zipped repository](https://github.com/ds4dm/tipsntricks/archive/master.zip) and uncompress it locally.
 
 The material is in the `julia/` folder.
 
